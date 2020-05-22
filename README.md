@@ -1,4 +1,4 @@
-# 2019 MolSSI Software Summer School
+# 2020 molssi-may-2020-python-webinar
 
 This repo contains files for a periodic table website.
 
